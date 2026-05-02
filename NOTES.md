@@ -13,7 +13,6 @@ a complete one stop cp training application
 /upsolve -> upsolve problems of the contest 
 /contest -> gives contest (1hr 2problems)(1.5hr 3problems)(2hrs 4problems) from a range that he selects problems are random 
 /stats -> gives previous contest + ques solved and rating level perfomed in that contest (delta of my platform rating) 
-/bookmark -> bookmarks good problems 
 
 3. what is Supabase and why are we using it
 sql database, using coz i dont want to use localstorage 
